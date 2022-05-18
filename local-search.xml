@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>2022/05/19</title>
+    <link href="/2022/05/19/2022-05-19/"/>
+    <url>/2022/05/19/2022-05-19/</url>
+    
+    <content type="html"><![CDATA[<h1 id="今天跑了下房价预测的代码"><a href="#今天跑了下房价预测的代码" class="headerlink" title="今天跑了下房价预测的代码"></a>今天跑了下房价预测的代码</h1><p>早上没有增加features时，跑一次要15min在GPU上<br>晚上加了三个离散值的features，因为作了独热编码<br>features有将近1万个<br>晚上跑了2h多<br>因为我一个疏忽<br>之前注释掉的语句<br>忘了注释<br>导致loss多了一倍的长度<br>又因为装到函数里了<br>导致看不到loss<br>画不出图<br>但还好预测是能做了<br>早上的预测差的一匹<br>今天晚上的还好</p><h1 id="之后有时间可以再跑"><a href="#之后有时间可以再跑" class="headerlink" title="之后有时间可以再跑"></a>之后有时间可以再跑</h1><p>怎么说呢<br>这样的生活挺充实的<br>晚上又学了数理统计<br>弄明白了很开心<br>明早也要好好听课</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>2022/05/17</title>
     <link href="/2022/05/17/2022-05-17/"/>
     <url>/2022/05/17/2022-05-17/</url>
