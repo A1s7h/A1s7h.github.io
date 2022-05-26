@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>2022/05/26</title>
+    <link href="/2022/05/26/2022-05-26/"/>
+    <url>/2022/05/26/2022-05-26/</url>
+    
+    <content type="html"><![CDATA[<h1 id="今天弄了一下午的代码"><a href="#今天弄了一下午的代码" class="headerlink" title="今天弄了一下午的代码"></a>今天弄了一下午的代码</h1><p>总结一下犯错的原因<br>第一，输入的图片大小会直接影响网络后面的大小<br>第二，label数要和全连接层的输出数相同<br>还有最重要的Dataloader</p><h1 id="跑起来太慢了"><a href="#跑起来太慢了" class="headerlink" title="跑起来太慢了"></a>跑起来太慢了</h1><p>20个epoch就要跑一个半小时<br>我还想交叉验证呢<br>麻了<br>这可怎么办啊</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>2022/05/25</title>
     <link href="/2022/05/25/2022-05-25/"/>
     <url>/2022/05/25/2022-05-25/</url>
